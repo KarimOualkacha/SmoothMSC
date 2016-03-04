@@ -1,0 +1,12 @@
+Package: SMSC
+Type: Package
+Title: The smooth methylation status calling (SMSC) procedure
+Version: 1.0.5
+Date: 2016-01-26
+Depends: locfit
+Author: Mohamed OUHOURANE <mohamed.ouhourane@gmail.com>, Karim Oualkacha <oualkacha.karim@uqam.ca>, M'Hamed Lajmi <Lajmi.Lakhal@mat.ulaval.ca> .....
+Maintainer: Mohamed OUHOURANE <mohamed.ouhourane@gmail.com>
+Description: This package implements a smooth methylation status calling (SMSC) procedure for classification the next genaration data
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2016-01-27 12:55:13 UTC; mohamed
